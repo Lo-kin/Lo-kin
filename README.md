@@ -6,6 +6,6 @@ True = False
 Nothing is All
 
 <img decoding="async" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png" width="20%">
-*
+
 
 
